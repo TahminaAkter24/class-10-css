@@ -1,0 +1,23 @@
+.content{
+    background:blue;
+}
+.content h1{
+    color:aliceblue;
+    text-align:center;
+    background-color: black;
+    border:2px solid salmon;
+    font-size: 30px;
+    border-radius: 6px;
+}
+.content {
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    border:2px solid #ff0000;
+    border-radius: 6px;
+font-size: 20px;
+}
+.head_content{
+    background-color:#ff008c67;
+    h
+}
